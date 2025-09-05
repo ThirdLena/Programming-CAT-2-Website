@@ -12,10 +12,6 @@ body {
        
     margin: 0;
     padding: 0;
-    background-image:url(NewWallpaper.jpg);
-    background-size: 2048px;
-    background-attachment: fixed;
-    color: #333;
 }
 
 header {
@@ -77,6 +73,7 @@ img {
   left: 0;
   z-index: -1;
 }
+
 
 
 
