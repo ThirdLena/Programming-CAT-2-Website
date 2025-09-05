@@ -63,8 +63,9 @@ img {
     margin-right: 20px;
 
 }
+
 #particles-js {
-  background: #212121;
+  background: #334c6b;
   position: fixed;
   width: 100vw;
   height: 100vh;
@@ -72,6 +73,7 @@ img {
   left: 0;
   z-index: -1;
 }
+
 
 
 
