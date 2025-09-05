@@ -67,8 +67,8 @@ main {
     transform: translateY(-50%);
 }
 .header2{
-    width: 7%;
-    height: 40%;
+    width: 8%;
+    height: 50%;
     background:  rgb(0, 0, 0, 0.7);
     border-radius: 8px;
     box-shadow: 0 2px 5px rgba(0,0,0,0.1);
@@ -88,7 +88,7 @@ main {
     position: relative;
 }
 .nav-links li{
-    padding: 10px 15px;
+    padding: 5px 10px;
 }
 .nav-links li a{
     color: #fff;
@@ -119,6 +119,7 @@ figcaption {
   left: 0;
   z-index: -1;
 }
+
 
 
 
