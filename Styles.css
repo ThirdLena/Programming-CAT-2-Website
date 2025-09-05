@@ -112,6 +112,9 @@ figcaption {
     text-align: center; 
 }
 .particles-js {
-    height: 100%;
-    background: #262626;
+        position: fixed;
+        width: 100vw;
+        height: 100vh;
+        top: 0; left: 0;
+        z-index: -1;
 }
