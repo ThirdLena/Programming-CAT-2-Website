@@ -67,8 +67,8 @@ main {
     transform: translateY(-50%);
 }
 .header2{
-    width: 8%;
-    height: 50%;
+    width: 10%;
+    height: 60%;
     background:  rgb(0, 0, 0, 0.7);
     border-radius: 8px;
     box-shadow: 0 2px 5px rgba(0,0,0,0.1);
@@ -119,6 +119,7 @@ figcaption {
   left: 0;
   z-index: -1;
 }
+
 
 
 
