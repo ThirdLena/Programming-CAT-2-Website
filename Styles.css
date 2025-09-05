@@ -9,7 +9,6 @@
     color: #ffffff;
 }
 body {
-    background color: #262626;
     margin: 0;
     padding: 0;
 }
@@ -118,4 +117,5 @@ figcaption {
         top: 0; left: 0;
         z-index: -1;
 }
+
 
