@@ -110,7 +110,7 @@ figcaption {
 .side-by-side figure {
     text-align: center; 
 }
-.particles-js {
+#particles-js {
   background: #212121;
   position: fixed;
   width: 100vw;
@@ -119,6 +119,7 @@ figcaption {
   left: 0;
   z-index: -1;
 }
+
 
 
 
